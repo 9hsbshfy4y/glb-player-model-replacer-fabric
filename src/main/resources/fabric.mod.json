@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "modelreplacer",
+  "version": "${version}",
+  "name": "Model Replacer",
+  "description": "Replaces player models with custom GLB assets.",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.mark.code.Main"
+    ]
+  },
+  "mixins": [
+    "modelreplacer.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

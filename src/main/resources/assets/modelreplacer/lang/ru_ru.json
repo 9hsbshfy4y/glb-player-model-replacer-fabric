@@ -1,0 +1,9 @@
+{
+  "screen.modelreplacer.title": "Замена моделей",
+  "option.modelreplacer.replace_self": "Заменять свою модель",
+  "option.modelreplacer.replace_others": "Заменять других игроков",
+  "option.modelreplacer.model": "Модель",
+  "button.modelreplacer.done": "Готово",
+  "key.modelreplacer.open_gui": "Открыть настройки",
+  "category.modelreplacer": "Замена моделей"
+}

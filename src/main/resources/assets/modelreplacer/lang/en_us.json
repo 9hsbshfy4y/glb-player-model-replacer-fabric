@@ -1,0 +1,9 @@
+{
+  "screen.modelreplacer.title": "Model Replacer",
+  "option.modelreplacer.replace_self": "Replace your model",
+  "option.modelreplacer.replace_others": "Replace other players",
+  "option.modelreplacer.model": "Model",
+  "button.modelreplacer.done": "Done",
+  "key.modelreplacer.open_gui": "Open settings",
+  "category.modelreplacer": "Model Replacer"
+}
