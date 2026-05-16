@@ -22,7 +22,7 @@ Replaces the vanilla player model with a GLB model of your choice. You can toggl
 - Use the **Model** dropdown to pick between the bundled models.
 
 ### Bundled models
-- **Tung Tung Sahur** — Sahur from brainor
+- **Tung Tung Sahur** — Sahur from brainrot
 - **amogus** — amogus
 
 ### Adding your own model
